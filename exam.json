@@ -14,19 +14,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -38,15 +42,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -58,19 +70,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -82,19 +98,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -106,19 +126,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         }
@@ -137,19 +161,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -161,19 +189,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -185,19 +217,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -209,19 +245,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -233,19 +273,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -257,19 +301,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         }
@@ -288,19 +336,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -312,19 +364,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -336,19 +392,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -360,19 +420,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -384,19 +448,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         },
@@ -408,19 +476,23 @@
           "paper": [
             {
               "id": "1",
-              "name": "Mathematics Standard 2020 Main Exam Set-1"
+              "name": "Mathematics Standard 2020 Main Exam Set-1",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "2",
-              "name": "Mathematics Standard 2020 Main Exam Set-2"
+              "name": "Mathematics Standard 2020 Main Exam Set-2",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "3",
-              "name": "Mathematics Standard 2020 Main Exam Set-3"
+              "name": "Mathematics Standard 2020 Main Exam Set-3",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             },
             {
               "id": "4",
-              "name": "Mathematics Standard 2020 Main Exam Set-4"
+              "name": "Mathematics Standard 2020 Main Exam Set-4",
+              "pdf" : "http://www.africau.edu/images/default/sample.pdf"
             }
           ]
         }
