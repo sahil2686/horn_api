@@ -37,6 +37,92 @@
           "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
         }
       ]
+    },
+    {
+      "id": "2",
+      "image": "https://media.istockphoto.com/photos/empty-circular-dark-grey-gradient-with-black-solid-vignette-lighting-picture-id1248682545?k=20&m=1248682545&s=170667a&w=0&h=3Tpf7enE6p5ziatibaRLO61cfZh6F6eVHpqB9PfCEeY=",
+      "name": "11 class",
+      "sub": [
+        {
+          "id": "1",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg"
+        },
+        {
+          "id": "2",
+          "eName": "Business Studies",
+          "gName": "ધંધાકીય ભણતર",
+          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg"
+        },
+        {
+          "id": "3",
+          "eName": "Accountancy",
+          "gName": "એકાઉન્ટન્સી",
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg"
+        },
+        {
+          "id": "4",
+          "eName": "English",
+          "gName": "અંગ્રેજી",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+        },
+        {
+          "id": "5",
+          "eName": "Statistics",
+          "gName": "આંકડા શાસ્ત્ર",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+        },
+        {
+          "id": "6",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/photos/empty-circular-dark-grey-gradient-with-black-solid-vignette-lighting-picture-id1248682545?k=20&m=1248682545&s=170667a&w=0&h=3Tpf7enE6p5ziatibaRLO61cfZh6F6eVHpqB9PfCEeY=",
+      "name": "12 class",
+      "sub": [
+        {
+          "id": "1",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg"
+        },
+        {
+          "id": "2",
+          "eName": "Business Studies",
+          "gName": "ધંધાકીય ભણતર",
+          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg"
+        },
+        {
+          "id": "3",
+          "eName": "Accountancy",
+          "gName": "એકાઉન્ટન્સી",
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg"
+        },
+        {
+          "id": "4",
+          "eName": "English",
+          "gName": "અંગ્રેજી",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+        },
+        {
+          "id": "5",
+          "eName": "Statistics",
+          "gName": "આંકડા શાસ્ત્ર",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+        },
+        {
+          "id": "6",
+          "eName": "Economics",
+          "gName": "અર્થશાસ્ત્ર",
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg"
+        }
+      ]
     }
   ]
 }
