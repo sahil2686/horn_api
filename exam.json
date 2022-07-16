@@ -10,31 +10,117 @@
           "id": "1",
           "eName": "Maths",
           "gName": "ગણિત",
-          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg"
+          "image": "https://t3.ftcdn.net/jpg/03/23/85/24/360_F_323852446_IJaIt5k1EiiYmfwKc5puBlxn8GVMrF2z.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4"
+            }
+          ]
         },
         {
           "id": "2",
           "eName": "Science",
           "gName": "વિજ્ઞાન",
-          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg"
+          "image": "https://www.emeraldgrouppublishing.com/sites/default/files/image/MicrosoftTeams-image%20%2821%29_0.png.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3"
+            }
+          ]
         },
         {
           "id": "3",
           "eName": "Social Science",
           "gName": "સામાજિક વિજ્ઞાન",
-          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg"
+          "image": "https://www.pngmagic.com/product_images/yellow-orange-gradient-vector-background.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4"
+            }
+          ]
         },
         {
           "id": "4",
           "eName": "Hindi",
           "gName": "હિન્દી",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4"
+            }
+          ]
         },
         {
           "id": "5",
           "eName": "English",
           "gName": "અંગ્રેજી",
-          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg"
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/001/594/577/small_2x/blue-purple-gradient-geometric-shape-free-vector.jpg",
+          "paper": [
+            {
+              "id": "1",
+              "name": "Mathematics Standard 2020 Main Exam Set-1"
+            },
+            {
+              "id": "2",
+              "name": "Mathematics Standard 2020 Main Exam Set-2"
+            },
+            {
+              "id": "3",
+              "name": "Mathematics Standard 2020 Main Exam Set-3"
+            },
+            {
+              "id": "4",
+              "name": "Mathematics Standard 2020 Main Exam Set-4"
+            }
+          ]
         }
       ]
     },
