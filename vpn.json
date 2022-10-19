@@ -1,4 +1,8 @@
 {
   "status": "success",
-  "data": "https://www.anandjadavwebsite.tk/admin_server/public/api/"
+  "data": {
+    "vpnserver" : "https://www.anandjadavwebsite.tk/admin_server/public/api/",
+    "privacypolicy" : "https://www.google.com",
+    "terms": "https://www.google.com"
+  }
 }
