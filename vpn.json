@@ -2,7 +2,7 @@
   "status": "success",
   "data": {
     "vpnserver" : "https://www.anandjadavwebsite.tk/admin_server/public/api/",
-    "privacypolicy" : "https://www.google.com",
+    "privacypolicy" : "https://www.freeopenvpn.org/connect.php?lang=en",
     "terms": "https://www.google.com"
   }
 }
