@@ -1,9 +1,38 @@
 {
   "status": "success",
-  "data": {
+  "ads_counter": {
     "adsClickLimit": "10",
     "isAdVisible": "1",
-    "isAdVisibleLimit": "1",
+    "isAdVisibleLimit": "1"
+  },
+  "ads_type": {
+    "screen1": true,
+    "screen2": true,
+    "screen3": true,
+    "screen4": true,
+    "screen5": true,
+    "screen6": true,
+    "screen7": true,
+    "screen8": true,
+    "screen9": true,
+    "screen10": true,
+    "screen11": true
+  },
+  "ads": {
+    "google_ads": {
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "open": "ca-app-pub-3940256099942544/3419835294"
+    },
+    "applovin_ads": {
+      "banner": "cee3b391d6061346",
+      "inter": "5201602bd1a21f61",
+      "mrec": "56bde13bfd666fc9",
+      "open": "8b7091983700d3c0"
+    }
+  },
+  "ads_flags": {
     "flag1": true,
     "flag2": false,
     "flag3": true,
@@ -23,15 +52,6 @@
     "flag17": true,
     "flag18": true,
     "flag19": true,
-    "flag20": true,
-    "googleAdShow" : true,
-    "googleBanner": "7f1aaeabeb14682e",
-    "googleInter": "394ca20d85458b1a",
-    "googleNative": "d216edb04972cec1",
-    "googleAppOpen": "d216edb04972cec1",
-    "appLovinBanner": "d216edb04972cec1",
-    "appLovinInter": "d216edb04972cec1",
-    "appLovinMrce": "d216edb04972cec1",
-    "appLovinOpen": "d216edb04972cec1"
-  },
+    "flag20": true
+  }
 }
