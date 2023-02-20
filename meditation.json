@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Nature Song",
+      "album_name": "Nature Song",
+      "musicImageSpure": "https://assets.stickpng.com/images/5a018de87ca233f48ba6270f.png",
+      "musicImageVer": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkM-C_Kg3MxSycfzTGXrcxsLKA311g9Sd5YQ&usqp=CAU",
+      "music_url": "https://drive.google.com/uc?export=view&id=1XplcP1zppbCdq02r6j5dWa7-8n5jb0QB"
+    },
+    {
+      "id": "2",
+      "isNativeAd": false,
+      "isOffline": true,
+      "music_name": "Nature Song",
+      "album_name": "Nature Song",
+      "musicImageSpure": "https://www.teahub.io/photos/full/134-1347618_background-natural-hd-png.jpg",
+      "musicImageVer": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt7mJIb2B5y4ePE3isFiv_5nz5UwFX3dmAZkh9QFCdN81iFh0Mhpvu_U9gmL5qWzC1v4U&usqp=CAU",
+      "music_url": "https://drive.google.com/uc?export=view&id=1XT6fxOgdxOoYlNDbpNEHr4SIlBcXz9aa"
+    }
+  ]
+}
