@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "data": {
+    "adsClickLimit": "10",
+    "isAdVisible": "1",
+    "isAdVisibleLimit": "1",
+    "flag1": true,
+    "flag2": false,
+    "flag3": true,
+    "flag4": true,
+    "flag5": true,
+    "flag6": true,
+    "flag7": true,
+    "flag8": true,
+    "flag9": true,
+    "flag10": true,
+    "flag11": true,
+    "flag12": true,
+    "flag13": true,
+    "flag14": true,
+    "flag15": true,
+    "flag16": true,
+    "flag17": true,
+    "flag18": true,
+    "flag19": true,
+    "flag20": true,
+    "googleAdShow" : true,
+    "googleBanner": "7f1aaeabeb14682e",
+    "googleInter": "394ca20d85458b1a",
+    "googleNative": "d216edb04972cec1"
+    "googleAppOpen": "d216edb04972cec1"
+    "appLoivinBanner": "d216edb04972cec1"
+    "appLoivinInter": "d216edb04972cec1"
+    "appLoivinMrce": "d216edb04972cec1"
+    "appLoivinOpen": "d216edb04972cec1"
+  },
+}
