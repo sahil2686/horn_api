@@ -7,15 +7,15 @@
   },
   "ads_type": {
     "screen1": true,
-    "screen2": true,
+    "screen2": false,
     "screen3": true,
-    "screen4": true,
+    "screen4": false,
     "screen5": true,
-    "screen6": true,
+    "screen6": false,
     "screen7": true,
-    "screen8": true,
+    "screen8": false,
     "screen9": true,
-    "screen10": true,
+    "screen10": false,
     "screen11": true
   },
   "ads": {
