@@ -23,13 +23,17 @@
       "banner": "ca-app-pub-3940256099942544/9214589741",
       "inter": "ca-app-pub-3940256099942544/1033173712",
       "native": "ca-app-pub-3940256099942544/2247696110",
-      "open": "ca-app-pub-3940256099942544/3419835294"
+      "open": "ca-app-pub-3940256099942544/3419835294",
+      "banner_with_mediation": "safdf",
+      "inter_with_mediation": "asdfasfws",
     },
     "applovin_ads": {
       "banner": "cee3b391d6061346",
       "inter": "5201602bd1a21f61",
       "mrec": "56bde13bfd666fc9",
-      "open": "8b7091983700d3c0"
+      "open": "8b7091983700d3c0",
+      "banner_with_mediation": "safdf",
+      "inter_with_mediation": "asdfasfws",
     }
   },
   "ads_flags": {
